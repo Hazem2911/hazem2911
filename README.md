@@ -5,7 +5,9 @@ Most of my work is focused on building clean UIs, using Firebase, and managing s
 
 ---
 
-## 🚀 Featured Project: OptiStyle
+## 🚀 Featured Projects
+
+### 🛍️ OptiStyle – Eyewear Shopping App
 
 🎥 **Demo Video**: [Watch here](https://drive.google.com/drive/folders/1VHearQ3TPyalyKc9Imm9fSgFfm7BeR9Z?usp=sharing)
 
@@ -25,6 +27,29 @@ I built it as my final workshop project at **Star Union**, learning through self
 - Smooth navigation
 
 🔗 [View the GitHub Repo](https://github.com/Hazem2911/OptiStyle-App)
+
+---
+
+### 🖼️ Wallpaper Hub – Flutter App
+
+🎥 **Demo Video**: [Watch here](https://drive.google.com/drive/folders/1L4gq-JZeTCvGefoxpA6aNEvcw-2zhbD6?usp=sharing)
+
+Wallpaper Hub is a Flutter-based mobile application that provides users with a vast collection of high-quality wallpapers categorized for easy navigation.  
+Users can browse, download, and set wallpapers with a single click, and save their favorites for later.
+
+**🔧 Tech Stack:**
+- Flutter & Dart  
+- REST APIs  
+- Local storage  
+
+**📦 Features:**
+- Home screen with featured & recent wallpapers  
+- Categories: Abstract, Art, Nature, Gaming, and more  
+- Favorites section  
+- Profile & Settings (notifications, feedback, privacy policy)  
+- One-click download  
+
+🔗 [View the GitHub Repo](https://github.com/Hazem2911/WallpaperHub---Flutter-app)
 
 ---
 
