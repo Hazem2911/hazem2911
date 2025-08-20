@@ -3,7 +3,8 @@
 I'm a Flutter developer with a passion for creating smooth, user-friendly mobile experiences.  
 Most of my work is focused on building clean UIs, using Firebase, and managing state efficiently with GetX.
 
-![Hazem's Profile Image](Hi,.jpg)
+<img src="Hi,.jpg" alt="Hazem's Profile Image" width="500"/>
+
 
 ---
 
