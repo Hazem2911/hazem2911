@@ -3,6 +3,10 @@
 I'm a Flutter developer with a passion for creating smooth, user-friendly mobile experiences.  
 Most of my work is focused on building clean UIs, using Firebase, and managing state efficiently with GetX.
 
+<p align="center">
+  <img src="Hi,.jpg" width="200"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
