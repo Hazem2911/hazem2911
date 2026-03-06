@@ -11,7 +11,7 @@ Software Engineer & Computer Science student passionate about building scalable 
 
 ---
 
-<img src="Hi,.jpg" alt="Hazem's Profile Image" width="500"/>
+<img src="p.png" alt="Hazem's Profile Image"/>
 
 ---
 
