@@ -63,7 +63,7 @@ A **C++ board games platform** with intelligent AI opponents.
 - AI-powered opponents
 - Complete gameplay system
 
-🔗 **GitHub Repo:** (Add Link Here)
+🔗 **GitHub Repo:** ([Board Games Application with GUI](https://github.com/Hazem2911/Board-Games))
 
 ---
 
@@ -83,7 +83,8 @@ A **full-stack web platform** for managing and browsing books online.
 - Real-time availability
 - User-friendly interface
 
-🔗 **GitHub Repo:** (Add Link Here)
+🔗 **GitHub Repo:** ([Frontend](https://github.com/MalakAmrAhmdd/Book-Library-Project))
+🔗 **GitHub Repo:** ([Backend](https://github.com/Hazem2911/BiblioGate-Backend))
 
 ---
 
@@ -103,7 +104,7 @@ A **Flutter mobile application** for browsing and purchasing eyewear products.
 - Order management
 - Responsive mobile UI
 
-🔗 **GitHub Repo:** (Add Link Here)
+🔗 **GitHub Repo:** ([OptiStyle – Mobile Shopping App](https://github.com/Hazem2911/OptiStyle-App))
 
 ---
 
@@ -139,18 +140,6 @@ A **Flutter mobile application** for browsing and purchasing eyewear products.
 - Databases
 - Software Engineering Principles
 - Web Development
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hazem2911&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem2911&layout=compact&theme=tokyonight" height="170">
-
-</p>
 
 ---
 
